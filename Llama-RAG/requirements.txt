@@ -1,0 +1,8 @@
+accelerate==0.29.3
+bitsandbytes==0.43.1
+llama-index==0.10.33
+llama-index-llms-huggingface
+llama-index-embeddings-langchain
+sentence-transformers==2.7.0
+langchain==0.1.17
+streamlit==1.33.0

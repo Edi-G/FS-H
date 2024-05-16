@@ -18,7 +18,7 @@ if "messages" not in st.session_state.keys(): # Initialize the chat message hist
 
 @st.cache_resource(show_spinner=False)
 def load_data():
-    with st.spinner(text="Loading and indexing the FSH knowledgebase – hang tight! This should take 1-2 minutes."):
+    with st.spinner(text="Laster inn kunnskapsbasen. Dette kan ta noen minutter."):
         reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
         docs = reader.load_data()
         index = VectorStoreIndex.from_documents(docs)

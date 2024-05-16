@@ -18,17 +18,12 @@ Følg instruksjonene nedenfor for å sette opp prosjektet på din lokale maskin.
     python -m venv .venv
     ```
 
-2. Tillat skriptkjøring i PowerShell:
-    ```powershell
-    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
-    ```
-
-3. Aktiver det virtuelle miljøet:
+2. Aktiver det virtuelle miljøet:
     ```powershell
     .\.venv\Scripts\activate
     ```
 
-4. Installer nødvendige pakker:
+3. Installer nødvendige pakker:
     ```powershell
     pip install -r requirements.txt
     ```
@@ -55,7 +50,7 @@ Følg instruksjonene nedenfor for å sette opp prosjektet på din lokale maskin.
 Etter installasjonen kan du starte AI-assistenten ved å kjøre hovedskriptet:
 
 ```bash
-streamlit run gptFSH.py
+streamlit run app.py
 ```
 
 ### Bidra
