@@ -58,19 +58,19 @@ Etter installasjonen kan du starte AI-assistenten ved å kjøre hovedskriptet:
 streamlit run gptFSH.py
 ```
 
-Bidra
+### Bidra
 Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
 
-Fork prosjektet.
+### Fork prosjektet.
 Opprett en ny branch (git checkout -b feature/AmazingFeature).
 Commit dine endringer (git commit -m 'Add some AmazingFeature').
 Push til branchen (git push origin feature/AmazingFeature).
 Åpne en Pull Request.
 
-Lisens
+### Lisens
 Dette prosjektet er lisensiert under MIT License - se LICENSE.md for detaljer.
 
-Kontakt
+### Kontakt
 For spørsmål eller tilbakemeldinger, vennligst kontakt [ditt navn] på [din e-postadresse].
 
 
