@@ -51,22 +51,3 @@ Etter installasjonen kan du starte AI-assistenten ved å kjøre hovedskriptet:
 
 ```bash
 streamlit run app.py
-```
-
-### Bidra
-Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
-
-### Fork prosjektet.
-Opprett en ny branch (git checkout -b feature/AmazingFeature).
-Commit dine endringer (git commit -m 'Add some AmazingFeature').
-Push til branchen (git push origin feature/AmazingFeature).
-Åpne en Pull Request.
-
-### Lisens
-Dette prosjektet er lisensiert under MIT License - se LICENSE.md for detaljer.
-
-### Kontakt
-For spørsmål eller tilbakemeldinger, vennligst kontakt [ditt navn] på [din e-postadresse].
-
-
-Denne README.md-filen inneholder all nødvendig informasjon for å komme i gang med prosjektet, inkludert spesifikke instruksjoner for både Windows og macOS. Du kan tilpasse kontaktinformasjonen og andre detaljer etter behov.
