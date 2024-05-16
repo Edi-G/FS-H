@@ -1,6 +1,6 @@
 # AI-Assistent for FS - UiA
 
-Dette prosjektet utvikler en AI-basert assistent for å gi brukerveiledning til FS-systemet ved Universitetet i Agder (UiA). Ved å bruke Retrieval-Augmented Generation (RAG) og LlamaIndex, kombinerer vi relevant informasjon fra en omfattende kunnskapsbase med avanserte språkmodeller for å generere nøyaktige og relevante svar på brukerforespørsler. Systemet er designet for å være skalerbart og effektivt, og det kan håndtere komplekse forespørsler selv med begrensede maskinvarekrav.
+Dette prosjektet utvikler en AI-basert assistent for å gi brukerveiledning til FS-systemet ved Universitetet i Agder (UiA). Ved å bruke Retrieval-Augmented Generation (RAG) og LlamaIndex, kombinerer vi relevant informasjon fra en omfattende kunnskapsbase med avanserte språkmodeller for å generere nøyaktige og relevante svar på brukerforespørsler.
 
 ## Kom i gang
 
