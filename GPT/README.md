@@ -56,7 +56,7 @@ Etter installasjonen kan du starte AI-assistenten ved å kjøre hovedskriptet:
 
 ```bash
 streamlit run gptFSH.py
-
+```
 
 Bidra
 Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
