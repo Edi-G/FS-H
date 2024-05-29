@@ -24,7 +24,7 @@ Dette prosjektet utvikler en AI-assistent som gir brukerveiledning til FS-system
 ### Bidra
 Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
 
-## Fork prosjektet.
+# Fork prosjektet.
 Opprett en ny branch (git checkout -b feature/AmazingFeature).
 Commit dine endringer (git commit -m 'Add some AmazingFeature').
 Push til branchen (git push origin feature/AmazingFeature).
