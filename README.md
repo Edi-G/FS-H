@@ -8,7 +8,6 @@ AI-basert assistent for å gi brukerveiledning til FS-systemet ved Universitetet
 - [Mappestruktur](#mappestruktur)
 - [Bidra](#bidra)
 - [Lisens](#lisens)
-- [Kontakt](#kontakt)
 
 ## Prosjektbeskrivelse
 
@@ -29,7 +28,7 @@ Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
 3. Push til branchen (git push origin feature/AmazingFeature).
 4. Åpne en Pull Request.
 
-### Lisens
+## Lisens
 Dette prosjektet er lisensiert under MIT License - se LICENSE.md for detaljer.
 
 Denne README.md-filen inneholder all nødvendig informasjon for å komme i gang med prosjektet, inkludert spesifikke instruksjoner for både Windows og macOS. Du kan tilpasse kontaktinformasjonen og andre detaljer etter behov.
