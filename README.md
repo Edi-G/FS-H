@@ -7,7 +7,6 @@ AI-basert assistent for å gi brukerveiledning til FS-systemet ved Universitetet
 - [Prosjektbeskrivelse](#prosjektbeskrivelse)
 - [Mappestruktur](#mappestruktur)
 - [Bidra](#bidra)
-- [Fork prosjektet](#fork-prosjektet)
 - [Lisens](#lisens)
 - [Kontakt](#kontakt)
 
@@ -21,7 +20,7 @@ Dette prosjektet utvikler en AI-assistent som gir brukerveiledning til FS-system
 - **GPT-RAG**: Implementasjon og konfigurasjoner for GPT-modeller med RAG.
 - **Llama-RAG**: Implementasjon og konfigurasjoner for Llama-modeller med RAG.
 
-### Bidra
+## Bidra
 Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
 
 **Fork prosjektet**
