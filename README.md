@@ -33,8 +33,4 @@ Push til branchen (git push origin feature/AmazingFeature).
 ### Lisens
 Dette prosjektet er lisensiert under MIT License - se LICENSE.md for detaljer.
 
-### Kontakt
-For spørsmål eller tilbakemeldinger, vennligst kontakt [ditt navn] på [din e-postadresse].
-
-
 Denne README.md-filen inneholder all nødvendig informasjon for å komme i gang med prosjektet, inkludert spesifikke instruksjoner for både Windows og macOS. Du kan tilpasse kontaktinformasjonen og andre detaljer etter behov.
