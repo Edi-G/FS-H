@@ -18,8 +18,8 @@ Dette prosjektet utvikler en AI-assistent som gir brukerveiledning til FS-system
 ## Mappestruktur
 
 - **AzureTest**: Inneholder tester og konfigurasjoner for integrering med Azure.
-- **GPT-RAG**: Implementasjon og konfigurasjoner for GPT-modellen med RAG.
-- **Llama-RAG**: Implementasjon og konfigurasjoner for Llama-modellen med RAG.
+- **GPT-RAG**: Implementasjon og konfigurasjoner for GPT-modeller med RAG.
+- **Llama-RAG**: Implementasjon og konfigurasjoner for Llama-modeller med RAG.
 
 ### Bidra
 Hvis du ønsker å bidra til prosjektet, vennligst følg disse trinnene:
