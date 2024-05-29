@@ -11,7 +11,6 @@ from llama_index.llms.huggingface import HuggingFaceLLM
 from llama_index.embeddings.langchain import LangchainEmbedding
 # Bring in HF embeddings - need these to represent document chunks
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
-# Bring in stuff to change service context
 from llama_index.core import Settings
 from llama_index.core import set_global_service_context
 from llama_index.core import ServiceContext
